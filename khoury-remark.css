@@ -1,4 +1,4 @@
-    <style>
+
 
       @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap')
 
@@ -111,7 +111,7 @@
           color: #000;
         }
       .right-column {
-        width: 75%;
+        width: 70%;
         float: right;
         text-align: left;
         padding-top: 1em;
@@ -123,7 +123,7 @@
         text-align: left;
         bottom: 0px;
         left: 0px;
-        height: 65px;
+        height: 55px;
         width: 100%;
       }
       div.neu-footerinnerleft {
@@ -137,4 +137,3 @@
         display: inline;
       }
 
-    </style>
